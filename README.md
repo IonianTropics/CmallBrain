@@ -1,5 +1,5 @@
 # CmallBrain
-Barebones BrainFuck to C compiler
+Barebones Brainfuck to C compiler
 
 Assembly was too much of a hasstle
 
